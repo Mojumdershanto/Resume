@@ -1,0 +1,13 @@
+.wrapper {width:960px;margin:0 auto;background:#fff}
+h1 {color:blue;}
+body {background:pink;font-family:copperplate;font-size:20px;line-height:23px;background:url(images/3.jpg) repeat fixed} 
+.header img{width:960px;height: auto;}
+.mainmanu {background:yellow}
+.mainmanu ul{margin:0;padding:0;list-style:none}
+.mainmanu ul li{display:inline-block}
+.mainmanu ul li a{color:black;padding:25px;display:inline-block;text-decoration:none}
+.mainmanu ul li a:hover{background:red}
+.mainContent{overflow:hidden;font-size:15px;padding:18px}
+.content{width:550px;float:left}
+.sidebar{width:350px;float:right}
+.footer{background:black;color:white;font-size:20px;padding:10px}
